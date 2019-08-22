@@ -8,3 +8,13 @@ if (isDevBuild) {
     }
   };
 }
+
+const mobx = require('mobx');
+
+declare global {
+  interface Window {
+    mobx: typeof mobx;
+  }
+}
+
+window.mobx = mobx;

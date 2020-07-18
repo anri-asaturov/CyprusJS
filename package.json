@@ -43,7 +43,7 @@
     "fs-extra": "^8.1.0",
     "html-webpack-plugin": "^3.2.0",
     "jest": "^24.8.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "luxon": "^1.17.2",
     "mini-css-extract-plugin": "^0.8.0",
     "mobx": "4.13.0",
